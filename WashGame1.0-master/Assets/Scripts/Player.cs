@@ -20,11 +20,19 @@ public class Player : MonoBehaviour {
     public int maxhealth = 3;
     public Text healthDisplay;
 
+    
+
+    public int money;
+    public Text moneydisplay;
+
 
 
     void Start()
     {
         transform.position = Vector2.MoveTowards(transform.position, targetPos, speed * Time.deltaTime);
+
+        moneydisplay.text = PlayerPrefs.GetInt("Currency").ToString();
+        money = PlayerPrefs.GetInt("Currency");
     }
     // Update is called once per frame
     void Update()

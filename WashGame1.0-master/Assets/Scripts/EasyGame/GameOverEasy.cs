@@ -14,7 +14,7 @@ public class GameOverEasy : MonoBehaviour
     }
 
     // Update is called once per frame
-    public void PlayAgainMEasy()
+    public void PlayAgainEasy()
     {
         SceneManager.LoadScene("EasyGame");
     }
