@@ -52,7 +52,6 @@ public class Login : MonoBehaviour {
 
             using (mySW)
             {
-
                 mySW.WriteLine(jsonData);
                 mySW.Close();
             }

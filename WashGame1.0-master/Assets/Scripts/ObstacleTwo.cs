@@ -27,7 +27,6 @@ public class ObstacleTwo : MonoBehaviour {
             Instantiate(effect, transform.position, Quaternion.identity);
             // players take damage
             other.GetComponent<Player>().health -= damage;
-            Debug.Log(other.GetComponent<Player>().health);
             Destroy(gameObject);
         }
     }

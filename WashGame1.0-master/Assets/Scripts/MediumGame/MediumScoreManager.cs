@@ -28,7 +28,6 @@ public class MediumScoreManager : MonoBehaviour
         {
             // increase score of 3
             score = score + 3;
-            Debug.Log(score);
 
             if (score > PlayerPrefs.GetInt("HighScore", 0))
             {
