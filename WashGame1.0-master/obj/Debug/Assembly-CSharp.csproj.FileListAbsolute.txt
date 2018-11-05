@@ -1,0 +1,4 @@
+C:\Users\casham\Documents\GitHub\WashGame1.0\WashGame1.0-master\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\casham\Documents\GitHub\WashGame1.0\WashGame1.0-master\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\casham\Documents\GitHub\WashGame1.0\WashGame1.0-master\obj\Debug\Assembly-CSharp.dll
+C:\Users\casham\Documents\GitHub\WashGame1.0\WashGame1.0-master\obj\Debug\Assembly-CSharp.pdb

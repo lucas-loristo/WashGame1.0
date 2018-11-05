@@ -29,4 +29,16 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/GameOverEasy.unity
     guid: 6e1bf47da904f284098c68a545e220e3
+  - enabled: 1
+    path: Assets/Scenes/Shop.unity
+    guid: fd002d1e78e973d47889ad10cae3ce17
+  - enabled: 1
+    path: Assets/Scenes/Red Game/RedEasyGame.unity
+    guid: 69401ecc7914ba245a140067e08b1307
+  - enabled: 1
+    path: Assets/Scenes/Green Game/GreenEasyGame.unity
+    guid: 414132dd3071fb84a9717e0bf1c0a4b3
+  - enabled: 1
+    path: Assets/Scenes/YellowGame/YellowEasyGame.unity
+    guid: 6e4859f861e874d42b3fa328ce028b87
   m_configObjects: {}

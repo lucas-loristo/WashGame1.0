@@ -164,7 +164,13 @@ public class JSONObject {
 #endif
 		return new JSONObject();
 	}
-	public static JSONObject Create(Type t) {
+
+    internal static JSONObject Parse(string stringToEvaluate)
+    {
+        throw new NotImplementedException();
+    }
+
+    public static JSONObject Create(Type t) {
 		JSONObject obj = Create();
 		obj.type = t;
 		switch(t) {

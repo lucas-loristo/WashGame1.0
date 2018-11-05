@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Dificulty.unity
+- path: Assets/Scenes/Opening menu.unity
   isLoaded: 1
   isActive: 1
